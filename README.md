@@ -111,13 +111,13 @@
     <b>Front-end</b>
 
     <p align="center">
-      <img width="600px", src="https://github.com/swchae516/SSAFY_6th_Sub_PJT/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8.PNG?raw=true" />
+      <img width="600px", src="./README.assets/프론트?raw=true" />
     </p>
 
 ​    <b>Back-end</b>
 
     <p align="center">
-      <img width="600px", src="https://github.com/swchae516/SSAFY_6th_Sub_PJT/blob/main/%EB%B0%B1.PNG?raw=true" />
+      <img width="600px", src="./README.assets/백?raw=true" />
     </p>
 
 
