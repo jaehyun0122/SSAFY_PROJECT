@@ -109,18 +109,17 @@
   </li>
   <li>
     <b>Front-end</b>
-
-<!--     <p align="center">
+    <p align="center">
       <img width="600px", src="https://github.com/jaehyun0122/SSAFY_PROJECT/blob/master/README.assets/%ED%94%84%EB%A1%A0%ED%8A%B8.png?raw=true" />
-    </p> -->
-![프론트](./README.assets/프론트.png)
-​    
-	 <b>Back-end</b>
-![백](./README.assets/백.png)
-<!--     <p align="center">
+    </p>
+  </li>
+  <li>
+    <b>Back-end</b>
+    <p align="center">
       <img width="600px", src="https://github.com/jaehyun0122/SSAFY_PROJECT/blob/master/README.assets/%EB%B0%B1.png?raw=true" />
-    </p> -->
-
+    </p>
+  </li>
+</ul>
 
 # Front-End
 
